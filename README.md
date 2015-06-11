@@ -1,3 +1,4 @@
+hello
 A sample Telescope project. Install [Meteor](http://meteor.com), clone this repository locally and then run the app with:
 
 ```
